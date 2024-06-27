@@ -28,7 +28,4 @@ label.pack()
 # label.place(x=100, y=100)
 
 
-
-
 window.mainloop()
-
