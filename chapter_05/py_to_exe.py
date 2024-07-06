@@ -1,4 +1,4 @@
-# pyinstaller -F -w -i clock.ico
+# pyinstaller -F -w -i clock.ico clock.py
 
 from tkinter import *
 from time import *
